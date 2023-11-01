@@ -4,7 +4,7 @@
 
 Estou cursando Engenharia de Software na Unicesumar - Centro Universitario de Maringá
 
-Uma aprendiz de front-end e mobile, apaixonado por design de interface de usuário.
+Uma aprendiz de mobile iOS, python e Linux, apaixonado por tecnologia.
 
 Tecnologias em apredizagem:
 - Desenvolvimento iOS com Swift (UIKit e SwiftUI).
