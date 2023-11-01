@@ -1,4 +1,4 @@
-<h1 align="center">Hello! Sou Michelle, atualmente moro no Brasil.</h1>
+<h1 align="center">Hello! Sou Michelle,</h1>
 
 <img src="https://media.licdn.com/dms/image/D5616AQHDjQxjZdFRvw/profile-displaybackgroundimage-shrink_350_1400/0/1694094854788?e=1700092800&v=beta&t=U6Cmw65gji3FQrN2rE_Vvy4qTw7BNgIzQJik1FahUnU">
 
