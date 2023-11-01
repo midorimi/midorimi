@@ -8,7 +8,6 @@ Uma aprendiz de front-end e mobile, apaixonado por design de interface de usuár
 
 Tecnologias em apredizagem:
 - Desenvolvimento iOS com Swift (UIKit e SwiftUI).
-- Desenvolvimento front-end com HTML, CSS, Javascript, React e NextJS.
 - Design da interface do usuário.
 - Web Design com Elementor e Webflow.
 
